@@ -1,0 +1,20 @@
+<<<<<<< Updated upstream
+=======
+git commit -m "message"
+git commit -a -m "message"
+git add *.html
+
+git log -n 2
+
+git log -p file
+
+git checkout  id commit file
+
+
+git branch name of branche // add branche
+git checkout master file
+
+git revert id
+
+git checkout branchname  // go to branch
+>>>>>>> Stashed changes
